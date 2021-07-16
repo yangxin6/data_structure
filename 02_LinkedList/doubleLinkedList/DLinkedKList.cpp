@@ -101,6 +101,7 @@ DNode *find(DNode *head, int value) {
 }
 
 
+/*
 int main() {
     // 创建
     DNode *list = createDLinkedList(6);
@@ -114,3 +115,4 @@ int main() {
     del(list, node2);
     print(list);
 }
+*/
